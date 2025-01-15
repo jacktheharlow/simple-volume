@@ -1,0 +1,21 @@
+########################################################
+###       Execution4 strategy config               ###
+########################################################
+
+template_version: 6
+strategy: null
+# The following configurations are only required for the
+
+# Connector and token parameters
+connector: null
+trading_pair: null
+
+# Volume maker order size
+volume_maker_order_size: null
+
+# Volume maker interval
+order_delay_time: null
+
+# Measure volatility of best bid and ask, if low -> create volume
+safe_volume_making: null
+
